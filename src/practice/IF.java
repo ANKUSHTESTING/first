@@ -5,6 +5,7 @@ public class IF {
 		int password=1234;
 			if(password==123) {
 				System.out.println("hii iam d first user");
+				System.out.println(" hey this is from github");
 				
 				}
 			else {
